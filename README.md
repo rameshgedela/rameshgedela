@@ -23,7 +23,7 @@ improve efficiency, optimize processes, and deliver business value through techn
 
 <ul>
 <li>🔹 18+ years of IT industry experience</li>
-<li>🔹 Expertise in software development and enterprise solutions</li>
+<li>🔹 Expertise in virtual infra planning, deploying and enterprise solutions</li>
 <li>🔹 Strong leadership, mentoring, and team collaboration skills</li>
 <li>🔹 Passionate about cloud technologies, automation, and digital transformation</li>
 <li>🔹 Committed to continuous learning and innovation</li>
