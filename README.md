@@ -54,19 +54,6 @@ improve efficiency, optimize processes, and deliver business value through techn
 <li>✅ Improved operational efficiency through technology innovation</li>
 </ul>
 
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
-<hr>
 
 <h2>📫 Connect With Me</h2>
 
